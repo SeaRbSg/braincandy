@@ -8,6 +8,7 @@ Example:
 
 Given:
 
+```
 ABCCADCB
 DDDCAACB
 ABDDABCB
@@ -15,8 +16,10 @@ AADCAACC
 BBDDAACB
 ABDCCABB
 ABDDCACB
+```
 
 Output:
-ABDCAACB
+
+`ABDCAACB`
 
 [test.txt](https://github.com/SeaRbSg/braincandy/blob/master/lazy-professor/test.txt)
