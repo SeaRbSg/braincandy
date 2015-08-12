@@ -17,4 +17,5 @@ as well.
 ## Problems
 
 1. [Scrabble Cheater](https://github.com/SeaRbSg/braincandy/blob/master/scrabble-cheater/README.md)
+2. [Lazy Professor](https://github.com/SeaRbSg/braincandy/blob/master/lazy-professor/README.md)
 
