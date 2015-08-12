@@ -18,3 +18,5 @@ ABDDCACB
 
 Output:
 ABDCAACB
+
+[test.txt](https://github.com/SeaRbSg/braincandy/blob/master/lazy-professor/test.txt)
