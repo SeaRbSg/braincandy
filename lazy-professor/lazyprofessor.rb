@@ -11,4 +11,4 @@ def best_score(students = "")
 
 end
 
-puts best_score(students)
+best_score(students)
