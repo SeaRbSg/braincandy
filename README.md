@@ -19,4 +19,5 @@ as well.
 1. [Scrabble Cheater](https://github.com/SeaRbSg/braincandy/blob/master/scrabble-cheater/README.md)
 2. [Lazy Professor](https://github.com/SeaRbSg/braincandy/blob/master/lazy-professor/README.md)
 3. [Rainbow Parens](https://github.com/SeaRbSg/braincandy/blob/master/rainbow-parens/README.md)
+4. [Monte Carlo Pi](https://github.com/SeaRbSg/braincandy/blob/master/monte-carlo-pi/README.md)
 
