@@ -36,11 +36,11 @@ Valid Lisp:
 How do you print colors on the terminal you ask? You can use escape sequences. On ANSI/VT100 terminals and terminal emulators you can first print an escape sequence, then an escape code to indicate the text formatting.
 
 ```
-echo -e "\e[32mGreen"
-echo -e "\e[33mYellow"
-echo -e "\e[34mBlue"
-echo -e "\e[35mMagenta"
-echo -e "\e[36mCyan"
+ruby -e 'puts "\e[32mGreen\e[0m"'
+ruby -e 'puts "\e[33mYellow\e[0m"'
+ruby -e 'puts "\e[34mBlue\e[0m"'
+ruby -e 'puts "\e[35mMagenta\e[0m"'
+ruby -e 'puts "\e[36mCyan\e[0m"'
 ```
 
 So If I had the code
@@ -53,5 +53,5 @@ It would give us:
 \e[31m(\e[0mdefine \e[32m(\e[0mlambda \e[33m(\e[0mx\e[33m)\e[0m \e[34m(\e[0madd5 \e[35m(\e[0m+ 5 x\e[35m)\e[0m\e[34m)\e[0m\e[32m)\e[0m
 ```
 
-You can test in your terminal by running "echo -e" and the string above in quotes.
-
+You can test in your terminal by running "ruby -e 'puts "..."' and the
+string above in quotes.
