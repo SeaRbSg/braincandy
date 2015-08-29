@@ -6,7 +6,7 @@ Given some LISP code, we'd like to re-format it such that we colorize matching p
 
 Valid parens:
 ```
-([{()}()}])
+([{()}()])
 ```
 
 Invalid parens:
