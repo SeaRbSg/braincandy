@@ -19,10 +19,19 @@ gem install graphics --pre
 
 *Linux:*
 YMMV here base on your linux distribution. You will need the rsdl and rubysdl gems installed.
+Here are instructions for a recent version of ubuntu:
 ```
-???
+apt-get update -qq && \
+    apt-get install -y \
+            libsdl-ttf2.0.0 \
+            libsdl-sdl-sge \
+            libsdl-image1.2-dev \
+            libsdl-dev
+gem install rsdl
+gem install rubysdl -- --enable-bundled-sge
 gem install graphics --pre
 ```
+***Note: there is currently a missing font issue for linux, you may need to work around this until it is fixed.***
 
 ## Problem
 WITHOUT looking at the examples, do the following (in phases):
