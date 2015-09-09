@@ -20,5 +20,6 @@ as well.
 2. [Lazy Professor](https://github.com/SeaRbSg/braincandy/blob/master/lazy-professor/README.md)
 3. [Rainbow Parens](https://github.com/SeaRbSg/braincandy/blob/master/rainbow-parens/README.md)
 4. [Monte Carlo Pi](https://github.com/SeaRbSg/braincandy/blob/master/monte-carlo-pi/README.md)
-4. [Bouncy Balls](https://github.com/SeaRbSg/braincandy/blob/master/bouncy-balls/README.md)
+5. [Bouncy Balls](https://github.com/SeaRbSg/braincandy/blob/master/bouncy-balls/README.md)
+6. [Pascal Triangle](https://github.com/SeaRbSg/braincandy/blob/master/pascal-triangle/README.md)
 
