@@ -22,4 +22,6 @@ as well.
 4. [Monte Carlo Pi](https://github.com/SeaRbSg/braincandy/blob/master/monte-carlo-pi/README.md)
 5. [Bouncy Balls](https://github.com/SeaRbSg/braincandy/blob/master/bouncy-balls/README.md)
 6. [Pascal Triangle](https://github.com/SeaRbSg/braincandy/blob/master/pascal-triangle/README.md)
+7. [Yahtzee! Score](https://github.com/SeaRbSg/braincandy/blob/master/yahtzee-score/README.md)
+
 
